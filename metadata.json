@@ -1,0 +1,8 @@
+{
+  "name": "ACCT — Affective Cognitive Control Training",
+  "description": "Affective Cognitive Control Training (PASAT + N-Back) with unobstructed YouTube phobia exposure backgrounds and customizable affective background audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
